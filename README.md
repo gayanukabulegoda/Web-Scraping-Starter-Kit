@@ -1,19 +1,19 @@
-# Web-Scripting-Starter-Kit
+# Web-Scraping-Starter-Kit
 
-A repository designed to help freshers grasp the basics of web scripting. This kit provides simple guides and examples to build a strong foundation in web scripting.
+A repository designed to help freshers grasp the basics of web scraping. This kit provides simple guides and examples to build a strong foundation in web scraping.
 
 ## Repository Contents
 
-This repository includes four essential Python scripts for web scripting:
+This repository includes four essential Python scripts for web scraping:
 
 1. **`Web.py`**  
-   This script introduces the basics of web scripting. It captures and prints data from a website to the terminal.
+   This script introduces the basics of web scraping. It captures and prints data from a website to the terminal.
 
 2. **`WebDataToExcel.py`**  
    This script extracts data from a website and saves it to an Excel sheet, with two columns: Heading and Content.
 
 3. **`WebImgToFolder.py`**  
-   This script retrieves image source paths via web scripting and downloads the images, saving them to a specified folder.
+   This script retrieves image source paths via web scraping and downloads the images, saving them to a specified folder.
 
 4. **`PaginatedDataSetToExcel.py`**  
    This script scrapes data from a paginated site and saves it to an Excel sheet with seven separate columns, organized page by page.
@@ -22,11 +22,11 @@ This repository includes four essential Python scripts for web scripting:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/gayanukabulegoda/Web-Scripting-Starter-Kit.git
+   git clone https://github.com/gayanukabulegoda/Web-Scraping-Starter-Kit.git
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd Web-Scripting-Starter-Kit
+   cd Web-Scraping-Starter-Kit
 
 3. **Run the Scripts**
   - **For `Web.py`:**
